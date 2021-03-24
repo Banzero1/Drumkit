@@ -56,13 +56,13 @@ body {
 }
 .drum{
 
-   height: 250px;
-   width:250px;
-   margin: 35px;
+   height: 200px;
+   width:200px;
+   margin: 25px;
   
    border: solid;
    border-width: 10px;
-   border-radius: 15px;
+   border-radius: 10px;
       border-color:#D00990;
    
   display: inline-block;
