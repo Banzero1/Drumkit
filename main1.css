@@ -58,11 +58,11 @@ body {
 
    height: 250px;
    width:250px;
-   margin: 10px;
+   margin: 35px;
   
    border: solid;
    border-width: 10px;
-   border-radius: 10px;
+   border-radius: 15px;
       border-color:#D00990;
    
   display: inline-block;
